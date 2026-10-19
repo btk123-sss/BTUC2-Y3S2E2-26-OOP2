@@ -1,6 +1,10 @@
 
-
+# Install git 
+# Run once 
 git init 
 git branch -M main
   # add remote repo
 git remote add origin https://github.com/btk123-sss/BTUC2-Y3S2E2-26-OOP2.git
+
+# Run regularly 
+git pull origin main 
