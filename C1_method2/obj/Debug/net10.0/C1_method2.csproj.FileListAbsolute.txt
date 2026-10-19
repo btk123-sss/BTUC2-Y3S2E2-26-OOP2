@@ -1,0 +1,14 @@
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\bin\Debug\net10.0\C1_method2.exe
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\bin\Debug\net10.0\C1_method2.deps.json
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\bin\Debug\net10.0\C1_method2.runtimeconfig.json
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\bin\Debug\net10.0\C1_method2.dll
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\bin\Debug\net10.0\C1_method2.pdb
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.GeneratedMSBuildEditorConfig.editorconfig
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.AssemblyInfoInputs.cache
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.AssemblyInfo.cs
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.csproj.CoreCompileInputs.cache
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.dll
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\refint\C1_method2.dll
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.pdb
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\C1_method2.genruntimeconfig.cache
+D:\desk-tm\Coding\Csharp\2026\U2E2-OOP-2\Chapter1\C1_method2\obj\Debug\net10.0\ref\C1_method2.dll

@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRT+o7kzuuc=",
+  "success": true,
+  "projectFilePath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U2E2-OOP-2\\Chapter1\\C1_method1\\C1_method1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\openxmlpowertools\\4.5.3.2\\openxmlpowertools.4.5.3.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.io.packaging\\4.0.0\\system.io.packaging.4.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.management.automation.dll\\10.0.10586\\system.management.automation.dll.10.0.10586.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'OpenXmlPowerTools 4.5.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U2E2-OOP-2\\Chapter1\\C1_method1\\C1_method1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U2E2-OOP-2\\Chapter1\\C1_method1\\C1_method1.csproj",
+      "libraryId": "OpenXmlPowerTools",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'System.Management.Automation.dll 10.0.10586' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U2E2-OOP-2\\Chapter1\\C1_method1\\C1_method1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U2E2-OOP-2\\Chapter1\\C1_method1\\C1_method1.csproj",
+      "libraryId": "System.Management.Automation.dll",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
